@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CuentaBar</string>
+    <string name="titulo">Cuenta del Bar</string>
+    <string name="subtitulo">Calcula tu cuenta fácilmente</string>
+    <string name="importe">Importe de la cuenta</string>
+    <string name="hint_importe">Introduce el importe en euros</string>
+    <string name="incluir_propina">Incluir propina</string>
+    <string name="porcentaje">Porcentaje de propina</string>
+    <string name="metodo_pago">Método de pago</string>
+    <string name="efectivo">Efectivo</string>
+    <string name="tarjeta">Tarjeta</string>
+    <string name="valoracion">Valora el servicio</string>
+    <string name="camarero">Nombre del camarero</string>
+    <string name="hint_camarero">Escribe el nombre del camarero</string>
+    <string name="calcular">Calcular cuenta</string>
+    <string name="resultado">Aquí aparecerá el resultado de tu cuenta.</string>
+    <string name="error_vacio">Error: falta introducir el importe de la cuenta.</string>
+    <string name="error_formato">Error: introduce un número válido con un máximo de dos decimales.</string>
+    <string name="error_valor">Error: el importe debe ser mayor que cero.</string>
+    <string name="sin_camarero">No especificado</string>
+    <string name="resultado_detalle">Importe inicial: %1$s €\nPropina: %2$s €\nTotal a pagar: %3$s €\nMétodo de pago: %4$s\nValoración: %5$.0f/5 estrellas\nCamarero: %6$s</string>
+</resources>

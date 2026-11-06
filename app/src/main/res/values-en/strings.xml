@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BarAccount</string>
+    <string name="titulo">Bar Account</string>
+    <string name="subtitulo">Calculate your bill easily</string>
+    <string name="importe">Bill amount</string>
+    <string name="hint_importe">Enter the amount in euros</string>
+    <string name="incluir_propina">Include tip</string>
+    <string name="porcentaje">Tip percentage</string>
+    <string name="metodo_pago">Payment method</string>
+    <string name="efectivo">Cash</string>
+    <string name="tarjeta">Card</string>
+    <string name="valoracion">Rate the service</string>
+    <string name="camarero">Waiter name</string>
+    <string name="hint_camarero">Enter the waiter name</string>
+    <string name="calcular">Calculate bill</string>
+    <string name="resultado">Your bill result will appear here.</string>
+    <string name="error_vacio">Error: enter the bill amount.</string>
+    <string name="error_formato">Error: enter a valid number.</string>
+    <string name="error_valor">Error: the amount must be greater than zero.</string>
+    <string name="sin_camarero">Not specified</string>
+    <string name="resultado_detalle">Initial amount: %1$s EUR\nTip: %2$s EUR\nTotal to pay: %3$s EUR\nPayment method: %4$s\nRating: %5$.0f/5 stars\nWaiter: %6$s</string>
+</resources>
